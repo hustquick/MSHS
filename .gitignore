@@ -1,2 +1,13 @@
 .DS_Store
 MSHS.pdf
+*.bbl
+*.blg
+*.fdb_latexmk
+*.nl[gos]
+*.synctex.gz
+*.idx
+*.fls
+*.ilg
+*.ind
+*.log
+*.aux
