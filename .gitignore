@@ -1,5 +1,6 @@
 .DS_Store
 MSHS.pdf
+*.out
 *.bbl
 *.blg
 *.fdb_latexmk
@@ -11,3 +12,4 @@ MSHS.pdf
 *.ind
 *.log
 *.aux
+Python_files/__pycache__
